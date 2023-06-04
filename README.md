@@ -1,7 +1,7 @@
 # Turbowarp-Extensions
 All my Turbowarp extensions.
 
-To use:Right now this tutorial is broken. You have to download the file you want to run and then use the web version. 
+To use: 
 
 
 **1:** Go to releases and find the extension(s) you want
